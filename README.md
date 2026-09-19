@@ -63,28 +63,28 @@ The staff login is the default account from the original lab guide. Don't reuse 
 ## Screenshots
 
 **Starting the lab with Docker Compose**
-![Docker Compose up](screenshots/01-compose-up.png)
+![Docker Compose up](screenshots/Ticket_system_6.png)
 
 **Both containers running, osTicket healthy**
-![docker ps](screenshots/02-docker-ps.png)
+![docker ps](screenshots/Ticket_system_12.png)
 
-**User portal: opening a ticket**
-![Open a new ticket form](screenshots/03-open-ticket-form.png)
-
-**Confirmation shown to the user**
-![Ticket created](screenshots/04-ticket-created.png)
+**Confirmation shown to the user after submitting a ticket**
+![Ticket created](screenshots/Ticket_system_10.png)
 
 **Staff queue when the tickets arrive**
-![Queue at intake](screenshots/05-queue-intake.png)
+![Queue at intake](screenshots/Ticket_system_2.png)
 
 **Triage: tickets assigned to a second staff account**
-![Queue after assignment](screenshots/06-queue-assigned.png)
+![Queue after assignment](screenshots/Ticket_system_8.png)
 
 **A staff reply to a user**
-![Staff reply](screenshots/07-staff-reply.png)
+![Staff reply](screenshots/Ticket_system_3.png)
+
+**A ticket thread with the reply, internal note, transfer to Support and closure**
+![Ticket thread](screenshots/Ticket_system_11.png)
 
 **Closed tickets**
-![Closed queue](screenshots/08-closed-queue.png)
+![Closed queue](screenshots/Ticket_system_9.png)
 
 ## Ticket scenarios
 
